@@ -52,7 +52,27 @@ Dragon NaturallySpeaking is one of the most popular off-the-shelf voice recognit
 
 Site: [Nuance](https://www.nuance.com/dragon/support/dragon-naturallyspeaking.html)
 
-Cost: $90 – $500 (estimate based on different versions available per license)
+Cost: $90 – $500 (estimate based on different versions available per license) [subject to change without notice]
+
+Platform: Windows
+
+### [Dragon Dictate](applications/dragon%20dictate)
+Dragon Dictate is the Dragon NaturallySpeaking counterpart for MacOS (previously OS X). Although it lacks many of the features and deep integration that Dragon NaturallySpeaking contains, it still offers a great deal of functionality. Apart from its supported applications, it also allows for transcription in unsupported applications, albeit with limited correction and editing features. It is developed by Nuance Communications.
+
+As of October 22, 2018 this product has been discontinued and will no longer receive any further support or updates.
+
+Site: [Nuance](https://www.nuance.com/dragon/support/dragon-naturallyspeaking.html)
+
+Status: [_**Discontinued**_](https://www.nuance.com/dragon/support/professional-individual-for-mac-eol.html)
+
+Platform: MacOS
+
+Cost: $300 (Estimate based on different versions available per license) [subject to change without notice]
+
+### Voice Access
+Voice Access is a voice-recognition solution implemented for Android devices. It is developed by Google LLC.
+
+Platform: Android
 
 # Contributor Information
 
