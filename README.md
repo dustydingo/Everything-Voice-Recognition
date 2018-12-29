@@ -54,7 +54,7 @@ Site: [Nuance](https://www.nuance.com/dragon/support/dragon-naturallyspeaking.ht
 
 Cost: $90 – $500 (estimate based on different versions available per license)
 
-<a target="_blank" rel="noopener noreferrer" href="https://google.com">Test</a>
+![Test](https://google.com)
 
 # Contributor Information
 
