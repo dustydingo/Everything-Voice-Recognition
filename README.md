@@ -52,8 +52,6 @@ Dragon NaturallySpeaking is one of the most popular off-the-shelf voice recognit
 
 Site: [Nuance](https://www.nuance.com/dragon/support/dragon-naturallyspeaking.html)
 
-<a href="https://www.google.co.in/" target = '_blank'>Test</a>
-
 Cost: $90 – $500 (estimate based on different versions available per license)
 
 # Contributor Information
