@@ -50,7 +50,9 @@ A list of all applications that have voice recognition at their core.
 ### [Dragon NaturallySpeaking](applications/dragon%20naturallyspeaking)
 Dragon NaturallySpeaking is one of the most popular off-the-shelf voice recognition solutions in the market. It has been one of the most dominant players for well over two decades. Although it is a paid solution it continues to remain the preferred application of choice for many power users, due to its reliability and large user base. It is developed by Nuance Communications.
 
-Site: [Nuance](https://www.nuance.com/dragon/support/dragon-naturallyspeaking.html){:target="_blank"}
+Site: [Nuance](https://www.nuance.com/dragon/support/dragon-naturallyspeaking.html)
+
+<a href="https://www.google.co.in/" target = '_blank'>Test</a>
 
 Cost: $90 – $500 (estimate based on different versions available per license)
 
